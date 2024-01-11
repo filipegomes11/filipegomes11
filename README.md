@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu perfil! Sou estudante de ciência da computação na Universidade Federal do Agreste de Pernambuco e estágiario em Cloud & DevSecOps na Compass UOL. 👍 </p> 
+### Seja bem vindo ao meu perfil! Sou estudante de ciência da computação na Universidade Federal do Agreste de Pernambuco e analista de Cloud & DevSecOps. 👍 </p> 
 
 
 ## Redes Sociais:
