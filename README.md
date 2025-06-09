@@ -25,6 +25,7 @@ I'm a DevOps Engineer focused on automation, infrastructure as code (IaC), Kuber
 
 [![Terraform Registry](https://img.shields.io/badge/Terraform%20Module-VPC--AWS-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/filipegomes11/vpc/aws)
 [![Terraform Registry](https://img.shields.io/badge/Terraform%20Module-EKS--AWS-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/filipegomes11/eks/aws)
+[![Terraform Registry](https://img.shields.io/badge/Terraform%20Module-Managed-Nodegroup--AWS-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/filipegomes11/eks-nodegroup/aws)
 
 ---
 
